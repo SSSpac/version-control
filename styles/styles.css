@@ -9,7 +9,7 @@ html {
 body {
     margin: 0;
     min-height: 100%;
-    background-color: #6f1a07;
+    background-color: #357b80;
 }
 
 .header {
@@ -29,7 +29,7 @@ body {
 }
 
 .git-commands__command {
-    background-color:#b4c292;
+    background-color:#334012;
     border-radius: 16px;
     padding: 10px;
     font-size: 2rem;
@@ -37,7 +37,7 @@ body {
 }
 
 .git-commands__effects{
-    background-color:#3b3923;
+    background-color:#3b2523;
     border-radius: 16px;
     padding: 15px;
     font-size: 2rem;
