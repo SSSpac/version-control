@@ -8,17 +8,17 @@ html {
 
 body {
     margin: 0;
-    min-height: 100%;
+    min-height: 80%;
     background-color: #6f1a07;
 }
 
 .header {
-    background-color:#a8763e;
+    background-color:#a5a09b;
 }
 
 .header__page-title {
     text-align: center;
-    margin: 0;
+    margin: 10px;
 }
 
 .git-commands {
